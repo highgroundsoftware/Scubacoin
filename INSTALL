@@ -1,0 +1,9 @@
+Building Scubacoin
+
+See doc/readme-qt.rst for instructions on building Scubacoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Scubacoin.
+
+See doc/build-*.txt for instructions on building scubacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Scubacoin.
